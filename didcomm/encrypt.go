@@ -1,8 +1,8 @@
 package didcomm
 
 import (
-	"github.com/pilacorp/go-credential-sdk/didcomm/crypto"
-	"github.com/pilacorp/go-credential-sdk/didcomm/jwe"
+	"github.com/dinhwe2612/go-credential-sdk/didcomm/crypto"
+	"github.com/dinhwe2612/go-credential-sdk/didcomm/jwe"
 )
 
 func Encrypt(key []byte, plaintext string) string {

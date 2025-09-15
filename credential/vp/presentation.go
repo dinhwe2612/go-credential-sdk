@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/pilacorp/go-credential-sdk/credential/common/dto"
-	"github.com/pilacorp/go-credential-sdk/credential/common/jsonmap"
-	"github.com/pilacorp/go-credential-sdk/credential/vc"
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/dto"
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/jsonmap"
+	"github.com/dinhwe2612/go-credential-sdk/credential/vc"
 )
 
 // Config holds package configuration.

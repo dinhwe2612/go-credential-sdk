@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"github.com/ethereum/go-ethereum/crypto"
-	commoncrypto "github.com/pilacorp/go-credential-sdk/credential/common/crypto"
+	commoncrypto "github.com/dinhwe2612/go-credential-sdk/credential/common/crypto"
 )
 
 // JWK represents a JSON Web Key structure

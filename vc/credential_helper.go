@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/pilacorp/go-credential-sdk/vc/jsonutil"
-	"github.com/pilacorp/go-credential-sdk/vc/util"
+	"github.com/dinhwe2612/go-credential-sdk/vc/jsonutil"
+	"github.com/dinhwe2612/go-credential-sdk/vc/util"
 )
 
 // JSONMap represents a JSON object as a map.

@@ -5,10 +5,9 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/jsonmap"
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/util"
 	"github.com/xeipuuv/gojsonschema"
-
-	"github.com/pilacorp/go-credential-sdk/credential/common/jsonmap"
-	"github.com/pilacorp/go-credential-sdk/credential/common/util"
 )
 
 // serializeCredentialContents serializes CredentialContents into a Credential.

@@ -1,4 +1,4 @@
-module github.com/pilacorp/go-credential-sdk
+module github.com/dinhwe2612/go-credential-sdk
 
 go 1.24.3
 

@@ -7,10 +7,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pilacorp/go-credential-sdk/credential/common/dto"
-	"github.com/pilacorp/go-credential-sdk/credential/common/jwt"
-	"github.com/pilacorp/go-credential-sdk/credential/vc"
-	"github.com/pilacorp/go-credential-sdk/credential/vp"
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/dto"
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/jwt"
+	"github.com/dinhwe2612/go-credential-sdk/credential/vc"
+	"github.com/dinhwe2612/go-credential-sdk/credential/vp"
 )
 
 func TestParsePresentation(t *testing.T) {

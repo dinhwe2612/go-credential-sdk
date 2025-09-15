@@ -14,7 +14,7 @@ import (
 
 	"github.com/ethereum/go-ethereum/crypto"
 
-	"github.com/pilacorp/go-credential-sdk/credential/common/jsoncanonicalizer"
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/jsoncanonicalizer"
 )
 
 func HashString(input string) string {

@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/pilacorp/go-credential-sdk/credential/common/dto"
-	"github.com/pilacorp/go-credential-sdk/credential/common/jsonmap"
-	"github.com/pilacorp/go-credential-sdk/credential/common/jwt"
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/dto"
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/jsonmap"
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/jwt"
 )
 
 type JWTHeaders map[string]interface{}

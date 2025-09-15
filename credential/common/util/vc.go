@@ -3,7 +3,7 @@ package util
 import (
 	"fmt"
 
-	"github.com/pilacorp/go-credential-sdk/credential/common/dto"
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/dto"
 )
 
 // JSONMap represents a JSON object as a map.

@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/pilacorp/go-credential-sdk/credential/common/jsonmap"
-	"github.com/pilacorp/go-credential-sdk/credential/common/util"
-	"github.com/pilacorp/go-credential-sdk/credential/vc"
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/jsonmap"
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/util"
+	"github.com/dinhwe2612/go-credential-sdk/credential/vc"
 )
 
 // verifyCredentials verifies the signatures of a slice of Verifiable Credentials.

@@ -6,11 +6,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/pilacorp/go-credential-sdk/credential/common/crypto"
-	"github.com/pilacorp/go-credential-sdk/credential/common/dto"
-	"github.com/pilacorp/go-credential-sdk/credential/common/processor"
-	"github.com/pilacorp/go-credential-sdk/credential/common/util"
-	verificationmethod "github.com/pilacorp/go-credential-sdk/credential/common/verification-method"
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/crypto"
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/dto"
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/processor"
+	"github.com/dinhwe2612/go-credential-sdk/credential/common/util"
+	verificationmethod "github.com/dinhwe2612/go-credential-sdk/credential/common/verification-method"
 )
 
 // JSONMap represents a JSON object as a map.
